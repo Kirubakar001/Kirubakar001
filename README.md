@@ -71,7 +71,9 @@ I focus on **clean architecture**, **pixel-perfect UI**, and **animations that d
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kirubakar001&theme=radical)
 
 
-https://github-readme-stats.vercel.app/api?username=Kirubakar001&count_private=true&show_icons=true&theme=radical
+![Kirubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirubakar001&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirubakar001&layout=compact&theme=radical)
+
 
 
 ---
