@@ -1,21 +1,31 @@
 # 👋 Hi there, I'm Kirubakar 👨‍💻
 
-I'm a **Flutter Developer** passionate about crafting smooth, beautiful, and high-performance mobile apps using **Flutter** and **Dart**.  
-I focus on writing **clean architecture**, building **pixel-perfect UI**, and delivering **seamless animations** that bring apps to life.
+I'm a **Flutter Developer** passionate about crafting **beautiful, smooth, and high-performance mobile apps** using **Flutter** and **Dart**.  
+I focus on **clean architecture**, **pixel-perfect UI**, and **animations that delight users**.  
+
+---
+
+### 🎨 My Flutter World
+✨ Bringing apps to life with:
+- **Custom Animations:** Hero, Lottie, Tween, AnimatedBuilder, Implicit & Explicit animations  
+- **State Management:** Bloc & Provider  
+- **UI Excellence:** Modern design patterns, responsive layouts, and elegant transitions  
+- **Performance:** Optimized apps with smooth scrolling, lazy loading, and minimal lag  
+
+![Flutter animation placeholder](https://media.giphy.com/media/26xBwdIuRJiAiR5Ty/giphy.gif)
 
 ---
 
 ### 🚀 About Me
 - 💼 Mobile App Developer specializing in **Flutter**
 - 🧠 Focused on **Bloc** and **Provider** state management
-- 🎬 Skilled in **Flutter Animations** — Hero, Implicit & Explicit, Custom Transitions
-- 💬 Ask me about Flutter, Dart, Firebase, and scalable app architecture
+- 💬 Ask me about Flutter, Dart, Firebase, animations, or scalable app architecture
 - ⚙️ I love working with:
   - Flutter (Dart)
   - Bloc & Provider
   - Firebase (Auth, Firestore, Cloud Functions)
   - REST APIs & JSON Parsing
-  - Clean UI & Custom Animations
+  - Custom UI & Animations
 - 🌍 Open to freelance & collaboration opportunities
 - 📫 Reach me: **[kirubakar001@gmail.com](mailto:kirubakar001@gmail.com)**
 
@@ -25,7 +35,7 @@ I focus on writing **clean architecture**, building **pixel-perfect UI**, and de
 
 | Category | Technologies |
 |-----------|---------------|
-| 💻 Languages | Dart, JavaScript, Kotlin (basics) |
+| 💻 Languages | Dart, JavaScript, Kotlin (basics), Java (basics) |
 | 🧩 Frameworks | Flutter, Firebase |
 | 🗃️ Databases | Firestore, SQLite, Hive |
 | ⚙️ Tools | VS Code, Android Studio, Git, Postman |
@@ -35,16 +45,25 @@ I focus on writing **clean architecture**, building **pixel-perfect UI**, and de
 ---
 
 ### 📱 Featured Projects
-- 🗓️ **[Tamil Calendar App](https://play.google.com/store)** — Dynamic Flutter calendar app with API integration and notifications.  
-- 💬 **Chat App (Bloc + Firebase)** — Real-time messaging with Firestore and user presence tracking.  
-- 📈 **Expense Tracker (Provider)** — Personal finance tracker with charts and smooth animations.  
+| Project | Tech | Description |
+|---------|------|-------------|
+| 🗓️ [Tamil Calendar App](https://play.google.com/store) | Flutter, Firebase | Dynamic calendar app with API integration, notifications, and animations |
+| 💬 Chat App | Provider + Firebase | Real-time messaging with Firestore, animations, and smooth UI |
+| 📈 Expense Tracker | Provider | Personal finance tracker with charts, animations, and beautiful UI |
+
+---
+
+### 🌟 Fun Facts / Personal Touch
+- 💡 Love experimenting with **creative animations** and **UI tricks**  
+- 🎮 Enjoy Flutter mini-game prototypes and interactive widgets  
+- 🏆 Always trying to push **app design boundaries** and **performance limits**
 
 ---
 
 ### 🧠 Currently Exploring
+- Advanced Flutter **animation patterns & custom widgets**  
 - Flutter Web & Desktop apps  
-- Advanced animation techniques  
-- Performance optimization & clean architecture patterns  
+- Performance optimization, clean architecture, and testing  
 
 ---
 
@@ -56,7 +75,7 @@ I focus on writing **clean architecture**, building **pixel-perfect UI**, and de
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/kirubakar-c/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kirubakar001@gmail.com">
@@ -69,4 +88,4 @@ I focus on writing **clean architecture**, building **pixel-perfect UI**, and de
 
 ---
 
-⭐️ *“Animations make good apps great — smooth transitions, beautiful UI, and clean logic make the difference.”*
+⭐️ *“Animations are not just for fun — they define the feel of your app. Smooth UI, elegant transitions, and creative touches make users fall in love.”*
