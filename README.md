@@ -1,20 +1,21 @@
 # 👋 Hi there, I'm Kirubakar 👨‍💻
 
-I'm a **Flutter Developer** passionate about building beautiful, fast, and functional mobile apps using **Flutter** and **Dart**.  
-I enjoy solving real-world problems through clean code, elegant UI, and great user experiences.
+I'm a **Flutter Developer** passionate about crafting smooth, beautiful, and high-performance mobile apps using **Flutter** and **Dart**.  
+I focus on writing **clean architecture**, building **pixel-perfect UI**, and delivering **seamless animations** that bring apps to life.
 
 ---
 
 ### 🚀 About Me
-- 💼 Mobile App Developer (Flutter)
-- 🧠 Learning advanced state management, animations, and performance optimization
-- 💬 Ask me about Flutter, Dart, Firebase, or mobile architecture
+- 💼 Mobile App Developer specializing in **Flutter**
+- 🧠 Focused on **Bloc** and **Provider** state management
+- 🎬 Skilled in **Flutter Animations** — Hero, Implicit & Explicit, Custom Transitions
+- 💬 Ask me about Flutter, Dart, Firebase, and scalable app architecture
 - ⚙️ I love working with:
   - Flutter (Dart)
+  - Bloc & Provider
   - Firebase (Auth, Firestore, Cloud Functions)
-  - REST APIs
-  - Bloc / Provider / Riverpod
-  - Git & CI/CD
+  - REST APIs & JSON Parsing
+  - Clean UI & Custom Animations
 - 🌍 Open to freelance & collaboration opportunities
 - 📫 Reach me: **[kirubakar001@gmail.com](mailto:kirubakar001@gmail.com)**
 
@@ -29,20 +30,21 @@ I enjoy solving real-world problems through clean code, elegant UI, and great us
 | 🗃️ Databases | Firestore, SQLite, Hive |
 | ⚙️ Tools | VS Code, Android Studio, Git, Postman |
 | 🎨 Design | Figma, Adobe XD |
+| 🎬 Animations | Hero Animations, Lottie, Custom Transitions, Tween & AnimatedBuilder |
 
 ---
 
 ### 📱 Featured Projects
-- 🗓️ **[Tamil Calendar App](https://play.google.com/store)** — A calendar app built using Flutter, with local notifications & dynamic content.  
-- 💬 **Chat Application** — Real-time messaging using Firebase Firestore.  
-- 📈 **Expense Tracker** — A personal finance tracker with charts & local database.
+- 🗓️ **[Tamil Calendar App](https://play.google.com/store)** — Dynamic Flutter calendar app with API integration and notifications.  
+- 💬 **Chat App (Bloc + Firebase)** — Real-time messaging with Firestore and user presence tracking.  
+- 📈 **Expense Tracker (Provider)** — Personal finance tracker with charts and smooth animations.  
 
 ---
 
 ### 🧠 Currently Exploring
-- Flutter Web & Desktop  
-- Riverpod & Clean Architecture  
-- App performance optimization & animations  
+- Flutter Web & Desktop apps  
+- Advanced animation techniques  
+- Performance optimization & clean architecture patterns  
 
 ---
 
@@ -67,4 +69,4 @@ I enjoy solving real-world problems through clean code, elegant UI, and great us
 
 ---
 
-⭐️ *“Code is like humor — when you have to explain it, it’s bad.”*
+⭐️ *“Animations make good apps great — smooth transitions, beautiful UI, and clean logic make the difference.”*
