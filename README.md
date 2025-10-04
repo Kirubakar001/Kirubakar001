@@ -12,8 +12,6 @@ I focus on **clean architecture**, **pixel-perfect UI**, and **animations that d
 - **UI Excellence:** Modern design patterns, responsive layouts, and elegant transitions  
 - **Performance:** Optimized apps with smooth scrolling, lazy loading, and minimal lag  
 
-![Flutter animation placeholder](https://media.giphy.com/media/26xBwdIuRJiAiR5Ty/giphy.gif)
-
 ---
 
 ### 🚀 About Me
