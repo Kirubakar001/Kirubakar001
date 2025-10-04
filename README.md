@@ -68,6 +68,9 @@ I focus on **clean architecture**, **pixel-perfect UI**, and **animations that d
 ### 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kirubakar001&theme=radical)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Kirubakar001&theme=radical)
+
+
 ---
 
 ### 🌐 Connect with Me
